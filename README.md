@@ -8,4 +8,4 @@ about_me.txt
 
 🖥️ • **Learning CyberSecurity**
 
-🧑‍💻 • **🟠 HTML, 🔵 CSS, 🟡 JavaScript, | learning > 🐍 Python, 🧪 C, 🗂️ My SQL**
+🧑‍💻 • **🟠 HTML, 🔵 CSS, 🟡 JavaScript, | learning > 🐍 Python, 🧪 C, 🗂️ My SQL, 💎 Ruby**

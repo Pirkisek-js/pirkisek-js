@@ -1,8 +1,4 @@
-### Hi there, im Pirkisek 👋
-
-about_me.txt                                 
-
-📌 • **https://discord.gg/J7D8UEJhJq**
+### Hi there, im Pirkisek 👋                              
 
 🌐 • **My web: im working on it**
 

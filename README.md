@@ -1,7 +1,11 @@
-### Hi there, im Pirkisek 👋                              
+### Hi there, im Pirkisek 👋                          
 
-🌐 • **My web: im working on it**
+🌐 • **My web: https://bit.ly/pirkisek-portfolio**
 
-🖥️ • **Learning CyberSecurity**
+🔮 • Im 15
 
-🧑‍💻 • **🟠 HTML, 🔵 CSS, 🟡 JavaScript, | learning > 🐍 Python, 🧪 C, 🗂️ My SQL, 💎 Ruby**
+🌺 • Weeb
+
+☂️ • HTML, CSS, JavaScript
+
+⛈️ • He/She/They
